@@ -7,11 +7,11 @@ Hello.
 
 I am excited to introduce the new me: [GitPress.io](https://gitpress.io), which is a publishing services for your blog and your document collections.
 
-GitPress is built with modern developement tools chain:
+GitPress is built with modern developement tools chain you loved:
 
 - It uses Git to sync content
 - It uses Markdown as priority format
-- It transform your code into living code evaluator, allow running code in articles.
+- It transform your code into living code evaluator, allow [running code in posts](code-knack).
 
 I am happy to see you publish news, product updates, develop tips and tricks here.
 
