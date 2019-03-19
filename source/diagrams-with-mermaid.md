@@ -7,6 +7,7 @@ GitPress supports Markdown extension for diagrams, you could enable this feature
 
 The diagrams are powered by [Mermaid](https://knsv.github.io/mermaid/#mermaid), which supports sequence, flowchart and Gantt.
 
+
 ## Sequence diagram
 
 see [doc here](https://mermaidjs.github.io/sequenceDiagram.html) 
@@ -30,19 +31,19 @@ see [doc here](https://mermaidjs.github.io/sequenceDiagram.html)
 
 see [doc here](https://mermaidjs.github.io/flowchart.html) 
 
-​```mermaid,autorun
+```mermaid,autorun
   graph LR
     A[Hard edge] -->B(Round edge)
     B --> C{Decision}
     C -->|One| D[Result one]
     C -->|Two| E[Result two]
-​```
+```
 
 ## Gantt diagrams
 
 see [doc here](https://mermaidjs.github.io/gantt.html) 
 
-​```mermaid,autorun
+```mermaid,autorun
   gantt
     title A Gantt Diagram
     dateFormat  YYYY-MM-DD
@@ -52,4 +53,4 @@ see [doc here](https://mermaidjs.github.io/gantt.html)
     section Another
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
-​```
+```
