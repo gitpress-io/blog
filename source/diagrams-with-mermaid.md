@@ -7,6 +7,7 @@ GitPress supports Markdown extension for diagrams, you could enable this feature
 
 The diagrams are powered by [Mermaid](https://knsv.github.io/mermaid/#mermaid), which supports sequence, flowchart and Gantt.
 
+Check the [source of this post](https://github.com/gitpress-io/blog/blob/master/source/diagrams-with-mermaid.md) to learn how to draw diagrams.
 
 ## Sequence diagram
 
