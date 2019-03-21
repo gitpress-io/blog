@@ -15,7 +15,7 @@ Check the [source of this post](https://github.com/gitpress-io/blog/blob/master/
 def sayHello(person: String): Unit = {
   println("Hello, " + person)
 }
-sayHello("ada")
+sayHello("Ada")
 ```
 
 ## Typescript
