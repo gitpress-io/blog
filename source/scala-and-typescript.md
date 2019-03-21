@@ -12,7 +12,6 @@ Check the [source of this post](https://github.com/gitpress-io/blog/blob/master/
 ## Scala
 
 ```scala
-%% Example of sequence diagram
 def sayHello(person: String): Unit = {
   println("Hello, " + person)
 }
