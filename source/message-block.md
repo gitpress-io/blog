@@ -52,3 +52,17 @@ These render as follows:
 
 > [!IMPORTANT]
 > This is IMPORTANT
+
+## Custom Message Block
+
+You can also use custom message block with default style:
+
+```markdown
+> [!Hello]
+> This is a Greeting.
+```
+
+This render as follows:
+
+> [!Hello]
+> This is a Greeting.
