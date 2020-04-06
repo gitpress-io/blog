@@ -3,13 +3,11 @@ title: R Lang and UI polish
 date: 2020-04-06
 ---
 
-R Lang and UI polish
-
 R language syntax support has been added to GitPress.io.
 
-and we also polish the UI.
+and we also polished the UI.
 
-Hope you like it.
+Hope you like it :)
 
 ## R
 
