@@ -3,7 +3,7 @@ title: Accept Crypto Donations
 date: 2021-05-04
 ---
 
-Today I am happy to introduce the new donation feature for all GitPress authors.
+Today I am happy to introduce the new donation feature to all GitPress authors.
 
 Follow the 3 steps to enable this feature:
 
@@ -18,4 +18,4 @@ Once the setup is done, a Donate.Cafe icon will appear on your profile and peopl
 
 ![](/donatecafe/screenshot.2.png)
 
-Set your own donate button, share this post and mention [@gitpress](https://twitter.com/gitpress), you will receive a donation of 100 satoshi.
+Set your own donate button, share one of your post and mention [@gitpress](https://twitter.com/gitpress), you will receive a donation of BTC from me.
