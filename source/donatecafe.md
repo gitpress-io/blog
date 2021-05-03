@@ -16,6 +16,6 @@ Once the setup is done, a Donate.Cafe icon will appear on your profile and peopl
 
 ![](/donatecafe/screenshot.1.png)
 
-![](/donatecafe/screenshot.2.png)
+![](/donatecafe/screenshot.3.png)
 
-Set your own donate button, share one of your post and mention [@gitpress](https://twitter.com/gitpress), you will receive a donation of BTC from me.
+Set your own donate button, share one of your post and mention [@gitpress](https://twitter.com/gitpress) at twitter, you will receive a donation of BTC from me.
