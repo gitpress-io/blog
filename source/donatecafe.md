@@ -14,4 +14,8 @@ Follow the 3 steps to enable this feature:
 
 Once the setup is done, a Donate.Cafe icon will appear on your profile and people will also see a  donation button at the bottom of your posts.
 
+![](/donatecafe/screenshot.1.png)
+
+![](/donatecafe/screenshot.2.png)
+
 Set your own donate button, share this post and mention [@gitpress](https://twitter.com/gitpress), you will receive a donation of 100 satoshi.
